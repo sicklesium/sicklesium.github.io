@@ -1667,3 +1667,7 @@ input, select, textarea {
 	line-height: 1;
 	font-style: italic;
 }
+
+.smallimg {
+	width: 100%;
+}
